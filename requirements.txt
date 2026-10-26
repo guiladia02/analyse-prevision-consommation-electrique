@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+xgboost
+holidays
+requests
+pyarrow
+patsy
+shap
+prophet
